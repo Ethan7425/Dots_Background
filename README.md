@@ -16,3 +16,6 @@ In the end we got this
 I also added the fact that we can make the dots move when the mouse is around
 
 ![Dots_Moving_Mouse](https://github.com/user-attachments/assets/4a1a31c6-029c-49c5-b744-bfaee583ed81)
+
+I definitely plan to make more options and to build a small website on top of it
+Why not also add some settings options/buttons to change colors and some other features :)
